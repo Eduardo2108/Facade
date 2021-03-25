@@ -3,4 +3,4 @@ project(Responsability_Chain)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Responsability_Chain main.cpp)
+add_executable(Facade main.cpp src/Fachada/Facade.cpp src/Fachada/Facade.h src/Sistemas/Sistemas.cpp src/Sistemas/Sistemas.h)

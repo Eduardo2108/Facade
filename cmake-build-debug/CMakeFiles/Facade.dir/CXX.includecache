@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/eduardo218/CLionProjects/Facade/main.cpp
+src/Fachada/Facade.h
+/home/eduardo218/CLionProjects/Facade/src/Fachada/Facade.h
+
+/home/eduardo218/CLionProjects/Facade/src/Fachada/Facade.cpp
+Facade.h
+/home/eduardo218/CLionProjects/Facade/src/Fachada/Facade.h
+
+/home/eduardo218/CLionProjects/Facade/src/Fachada/Facade.h
+../Sistemas/Sistemas.h
+/home/eduardo218/CLionProjects/Facade/src/Sistemas/Sistemas.h
+
+/home/eduardo218/CLionProjects/Facade/src/Sistemas/Sistemas.cpp
+iostream
+-
+Sistemas.h
+/home/eduardo218/CLionProjects/Facade/src/Sistemas/Sistemas.h
+
+/home/eduardo218/CLionProjects/Facade/src/Sistemas/Sistemas.h
+string
+/home/eduardo218/CLionProjects/Facade/src/Sistemas/string
+
